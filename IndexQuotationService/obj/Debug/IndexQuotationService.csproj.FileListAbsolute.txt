@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\IndexQuotationService.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\obj\Debug\IndexQuotationService.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\IndexQuotationService.exe
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\IndexQuotationService.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Debug\HtmlAgilityPack.xml
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\obj\Debug\IndexQuotationService.exe
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\obj\Debug\IndexQuotationService.pdb

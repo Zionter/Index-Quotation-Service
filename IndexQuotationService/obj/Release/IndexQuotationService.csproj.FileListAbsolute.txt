@@ -1,0 +1,1 @@
+C:\Users\admin\documents\visual studio 2013\Projects\IndexQuotationService\IndexQuotationService\bin\Release\IndexQuotationService.exe.config
