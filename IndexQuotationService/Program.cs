@@ -18,11 +18,12 @@ namespace IndexQuotationService
     class Program
     {
         public static Queue<Thread> Threads;
+        private static bool Res = false;
         public static bool res
         {
             get
             {
-                return res;
+                return Res;
             }
             set
             {
